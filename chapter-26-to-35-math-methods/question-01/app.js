@@ -1,6 +1,6 @@
-var postiveInt = Number(prompt("Enter Positive Integer:"));
+var positiveInt = Number(prompt("Enter Positive Integer:"));
 
-if (postiveInt < 0) {
+if (positiveInt < 0) {
     alert("Please Enter Postive Interger!");
 } else {
     document.writeln(`number: ${postiveInt} <br />`);
