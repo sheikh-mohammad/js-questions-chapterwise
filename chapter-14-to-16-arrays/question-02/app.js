@@ -1,0 +1,1 @@
+var emptyArray = new Array();
